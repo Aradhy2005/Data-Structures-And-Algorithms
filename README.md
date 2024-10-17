@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
+| [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
