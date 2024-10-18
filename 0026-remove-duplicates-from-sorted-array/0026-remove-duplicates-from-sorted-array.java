@@ -6,7 +6,7 @@ class Solution {
 
         for(int j=1 ;j<nums.length ;j++)
         {
-            while(nums[i]!=nums[j])
+            if(nums[i]!=nums[j])
             {
                 nums[++i]=nums[j];
                 cnt++;
