@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
+| [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Stack
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
