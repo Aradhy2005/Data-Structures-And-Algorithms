@@ -1,21 +1,37 @@
 class Solution {
     public int majorityElement(int[] nums) {
 
-        HashMap<Integer, Integer> mpp = new HashMap<>();
-        int leastCount = nums.length /2;
-        for(int i=0 ; i< nums.length ; i++)
-        {
-            mpp.put(nums[i], mpp.getOrDefault(nums[i],0)+1);
+        int cnt=0;
+        int el = 0;
 
-            if(mpp.get(nums[i])>leastCount)
+        for(int i=0 ;i<nums.length ;i++)
+        {
+            if(cnt==0)
             {
-                return nums[i];
+                cnt=1;
+                el=nums[i];
             }
 
+            else if(nums[i]==el)
+            {
+                cnt++;
+            }
+
+            else
+            cnt--;
         }
+        // int cnt1=0;
+        // for(int i=0 ;i<nums.length;i++)
+        // {
+        //     if(nums[i]==el)
+        //     cnt1++;
+        // }
 
-
-        return -1;
+        // if(cnt1>(nums.length/2))
+        // return el;
         
+        // return -1;
+
+        return el;
     }
 }
