@@ -8,19 +8,16 @@ class Solution {
             if(nums[i]== 1)
             {
                 cnt++;
-               // max = Math.max(max , cnt);
+                max = Math.max(max , cnt);
                
             }
 
             else
             {
-              max =Math.max(max ,cnt);
               cnt =0;
             }
 
         }
-
-        max = Math.max(max , cnt);
 
         return max;
     }
