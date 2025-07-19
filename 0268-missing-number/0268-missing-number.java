@@ -1,16 +1,18 @@
 class Solution {
     public int missingNumber(int[] nums) {
 
-        int n =nums.length;
-        int Tsum = n*(n+1)/2;
-        int sum1=0;
+        int n = nums.length;
 
-        for(int i=0 ; i<n ; i++)
+        int TotalSum = n*(n+1)/2;   //total sum of range
+        int sum=0;
+
+        for(int i=0;i<n;i++)
         {
-          sum1+=nums[i];
+            sum=sum+nums[i];  //sum of array
+
         }
 
-        return Tsum-sum1;
+        return TotalSum-sum;
         
     }
 }
