@@ -5,15 +5,12 @@ class Solution {
 
         for(int i=0;i<nums.length;i++)
         {
-            if(nums[j-1]==nums[i])
+            if(nums[j-1]!=nums[i])
             {
-             
-            }
-            else
-            {
-                nums[j]=nums[i];
+               nums[j]=nums[i];
                 j++;
             }
+           
              
         }
         return j;
