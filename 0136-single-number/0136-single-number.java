@@ -1,14 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
 
-       int x=0;
+        int xorr=0;
 
-       for(int i=0 ;i<nums.length;i++)
-       {
-        x=x^nums[i];
-       }
-
-       return x;
+        for(int i=0;i<nums.length;i++)
+        {
+            xorr^=nums[i];
+        }
+        return xorr;
         
     }
 }
