@@ -3,7 +3,7 @@ class Solution {
         
         int buy = prices[0];
         int max_profit=0;
-        for(int i=0;i<prices.length;i++)
+        for(int i=1;i<prices.length;i++)
         {
               int cost = prices[i]-buy;
 
