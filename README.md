@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 ## Counting
 |  |
