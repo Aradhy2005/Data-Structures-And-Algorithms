@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
