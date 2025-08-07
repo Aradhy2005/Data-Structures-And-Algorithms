@@ -18,3 +18,6 @@ public:
         
     }
 };
+
+//Time Complexity = O(N)
+//SPACE Complexity = O(N)
