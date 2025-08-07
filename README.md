@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## String Matching
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
