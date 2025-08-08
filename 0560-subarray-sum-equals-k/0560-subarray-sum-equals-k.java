@@ -1,19 +1,22 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        
+        HashMap<Integer,Integer> mpp = new HashMap<>();
+        mpp.put(0,1);
+        int sum=0;
         int cnt=0;
         for(int i=0;i<nums.length;i++)
         {
-            int sum=0;
-            for(int j=i;j<nums.length;j++)
-            {
-                sum+=nums[j];
+            sum+=nums[i];
 
-                if(sum==k)cnt++;
+            int rem = sum-k;
 
-            }
+            if(mpp.containsKey(rem))
+            cnt+=mpp.get(rem);
+
+            mpp.put(sum, mpp.getOrDefault(sum, 0) + 1);
         }
 
         return cnt;
+        
     }
 }
