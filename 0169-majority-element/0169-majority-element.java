@@ -9,22 +9,16 @@ class Solution {
         {
             if(cnt==0)
             {
-                cnt=1;
                 el=nums[i];
-               
+                cnt=1;
             }
 
-            else if(el==nums[i])
-            {
-                cnt++;
-            }
+            else if(nums[i]==el)cnt++;
 
-            else{
-                cnt--;
-            }
+            else cnt--;
         }
-        
 
         return el;
+        
     }
 }
