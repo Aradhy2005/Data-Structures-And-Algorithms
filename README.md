@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -391,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
