@@ -1,22 +1,24 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
 
-        List<List<Integer>> result = new ArrayList<>();
-        int n= 1<<nums.length;
 
-        for(int i=0;i<n;i++)
-        {
-            List<Integer> temp = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
 
-            for(int j=0;j<nums.length;j++)
-            {
-                if((i&(1<<j))!=0)
-                temp.add(nums[j]);
-            }
-            result.add(temp);
-        }
+        generateSub(nums,0,new ArrayList<>(),res);
 
-        return result;
+        return res;
         
+    }
+
+    void generateSub(int[] nums,int i,List<Integer>Current,List<List<Integer>> res){
+        if(i==nums.length){
+            res.add(new ArrayList<>(Current));
+            return;
+        }
+        Current.add(nums[i]);
+        generateSub(nums,i+1,Current,res);
+
+        Current.remove(Current.size()-1);
+        generateSub(nums,i+1,Current,res);
     }
 }
