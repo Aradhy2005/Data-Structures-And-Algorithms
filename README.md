@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
