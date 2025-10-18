@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2050-count-good-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2050-count-good-numbers) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
