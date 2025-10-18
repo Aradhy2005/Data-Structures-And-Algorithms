@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2050-count-good-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
@@ -409,4 +411,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
