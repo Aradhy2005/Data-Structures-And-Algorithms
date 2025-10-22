@@ -5,14 +5,19 @@ class Solution {
 
         for(int i=0;i<nums.length;i++)
         {
-            int left=target-nums[i];
+            int rem=target-nums[i];
+            if(mpp.containsKey(rem))
+            {
+                return new int[]{i,mpp.get(rem)};
+            }
 
-            if(!mpp.containsKey(left))mpp.put(nums[i],i);
-
-            else return new int[]{i,mpp.get(left)};
+            else
+            {
+                mpp.put(nums[i],i);
+            }
         }
 
-        return new int[]{};
+        return new int[]{-1,-1};
         
     }
 }
