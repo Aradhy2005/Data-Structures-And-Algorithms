@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
