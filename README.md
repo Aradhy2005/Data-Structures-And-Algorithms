@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
