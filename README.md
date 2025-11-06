@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
