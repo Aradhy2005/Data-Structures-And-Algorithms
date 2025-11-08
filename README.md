@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0965-unique-email-addresses) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
