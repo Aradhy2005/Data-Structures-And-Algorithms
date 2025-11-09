@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2050-count-good-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
