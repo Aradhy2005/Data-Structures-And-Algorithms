@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
@@ -481,4 +483,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
