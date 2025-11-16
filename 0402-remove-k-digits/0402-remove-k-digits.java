@@ -21,19 +21,17 @@ class Solution {
             st.pop();
             k--;
         }
+     String res="";
+     for(int i=0;i<st.size();i++)
+     {
+        res+=st.get(i);
+     }
 
-      StringBuilder sb = new StringBuilder();
-        for (char c : st) sb.append(c);
+     int i=0; 
+     while(i<res.length() && res.charAt(i)=='0')i++;
 
-        // Remove leading zeros manually
-        int idx = 0;
-        while (idx < sb.length() && sb.charAt(idx) == '0')
-            idx++;
-
-        // If everything removed or only zeros → return 0
-        if (idx == sb.length()) return "0";
-
-        return sb.substring(idx);
+      if(i==res.length())return "0";
+      return res.substring(i);
         
     }
 }
