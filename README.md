@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2227-sum-of-subarray-ranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2227-sum-of-subarray-ranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2227-sum-of-subarray-ranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
