@@ -3,35 +3,34 @@ class Solution {
 
         Stack<Integer> st=new Stack<>();
 
-
-        for(int i=0;i<asteroids.length;i++)
+        for(int a:asteroids)
         {
-
-            while(!st.isEmpty() && st.peek()>0 && asteroids[i]<0  && (st.peek()+asteroids[i])<0)
-            st.pop();
-
-            if(!st.isEmpty() && st.peek()>0 && asteroids[i]<0 && (st.peek()+asteroids[i])>0)continue;
-
-            if(!st.isEmpty() && st.peek()>0 && asteroids[i]<0 && (st.peek()+asteroids[i])==0)
+            while(!st.isEmpty() && a<0 && st.peek()>0)
             {
-              st.pop();
-              continue;
+                int sum=a+st.peek();
+
+                if(sum<0)
+                st.pop();
+
+                else if(sum>0)
+                a=0;
+
+                else
+                {
+                    st.pop();
+                    a=0;
+                }
             }
 
-            st.push(asteroids[i]);
-
+            if(a!=0)st.push(a);
         }
 
-        if(st.size()==0)return new int[]{};
+        int arr[]=new int[st.size()];
 
-        int[] arr = new int[st.size()];
-
-        for(int i=0;i<st.size();i++)
+        for(int i=st.size()-1;i>=0;i--)
         {
-           arr[i]=st.get(i);
+            arr[i]=st.pop();
         }
-
-        
 
         return arr;
         
