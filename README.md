@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -416,12 +417,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
