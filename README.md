@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1236-n-th-tribonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1642-water-bottles) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
