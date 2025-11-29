@@ -5,11 +5,7 @@ class Solution {
         for(int a:nums)
         sum+=a;
 
-        if(sum%k==0)return 0;
-
-        if(sum<k)return sum;
-
-        else return sum%k;
+        return sum%k;
         
     }
 }
