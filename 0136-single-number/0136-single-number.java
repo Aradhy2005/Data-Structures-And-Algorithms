@@ -2,11 +2,9 @@ class Solution {
     public int singleNumber(int[] nums) {
 
         int xorr=0;
+        for(int a:nums)
+        xorr^=a;
 
-        for(int i=0;i<nums.length;i++)
-        {
-            xorr^=nums[i];
-        }
         return xorr;
         
     }
