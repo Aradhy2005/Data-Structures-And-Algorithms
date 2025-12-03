@@ -5,8 +5,15 @@ class Solution {
 
         while(numBottles>=numExchange)
         {
-            ans+=numBottles/numExchange;
-            numBottles=(numBottles/numExchange)+(numBottles%numExchange);
+            int drank=numBottles/numExchange;
+            int empty=numBottles%numExchange;
+
+            ans+=drank;
+
+            numBottles=drank+empty;
+
+
+
         }
 
         return ans;
