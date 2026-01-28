@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1972-rotating-the-box) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-maximum-matrix-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1200-minimum-absolute-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
