@@ -1,31 +1,36 @@
 class Solution {
     public int trap(int[] height) {
+        int lmax=0;
+        int rmax=0;
 
-        int [] lmax=new int[height.length];
-        int [] rmax=new int[height.length];
+        int ans=0;
+        int l=0;
+        int r=height.length-1;
 
-        int sum=0;
+        while(l<r){
+            if(height[l]<=height[r])
+            {
+                if(lmax>height[l])
+                ans+=lmax-height[l];
 
-        lmax[0]=height[0];
-        rmax[height.length-1]=height[height.length-1];
+                else
+                lmax=height[l];
 
+                l++;
+            }
 
-        for(int i=1;i<height.length;i++)
-        {
-            lmax[i]=Math.max(lmax[i-1],height[i]);
+            else if(height[l]>height[r])
+            {
+                if(rmax>height[r])
+                ans+=rmax-height[r];
+
+                else
+                rmax=height[r];
+
+                r--;
+            }
         }
 
-        for(int i=height.length-2;i>=0;i--)
-        {
-            rmax[i]=Math.max(rmax[i+1],height[i]);
-        }
-
-        for(int i=0;i<height.length;i++)
-        {
-            sum+=Math.min(lmax[i],rmax[i])-height[i];
-        }
-
-        return sum;
-        
+        return ans;
     }
 }
