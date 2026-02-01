@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
