@@ -1,23 +1,24 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
-        HashMap<Integer,Integer> mpp = new HashMap<>();
+        int[] res=new int[2];
 
         for(int i=0;i<nums.length;i++)
         {
             int rem=target-nums[i];
-            if(mpp.containsKey(rem))
-            {
-                return new int[]{i,mpp.get(rem)};
-            }
 
-            else
+            for(int j=i+1;j<nums.length;j++)
             {
-                mpp.put(nums[i],i);
+                if(rem==nums[j])
+                {
+                    res[0]=i;
+                    res[1]=j;
+
+                }
             }
         }
 
-        return new int[]{-1,-1};
+        return res;
         
     }
 }
