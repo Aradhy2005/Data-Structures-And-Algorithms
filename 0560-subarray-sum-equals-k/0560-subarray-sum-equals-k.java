@@ -2,20 +2,27 @@ class Solution {
     public int subarraySum(int[] nums, int k) {
 
         int cnt=0;
-        for(int i=0;i<nums.length;i++)
+        int prefSum=0;
+        int n=nums.length;
+
+        HashMap<Integer,Integer> mpp = new HashMap<>();
+        mpp.put(0,1);
+
+        for(int num:nums)
         {
-            int sum=0;
+            prefSum+=num;
 
-            for(int j=i;j<nums.length;j++)
+            int rem=prefSum-k;
+
+            if(mpp.containsKey(rem))
             {
-                sum+=nums[j];
-
-                if(sum==k)cnt++;
+                cnt+=mpp.get(rem);
             }
+
+            mpp.put(prefSum,mpp.getOrDefault(prefSum,0)+1);
         }
 
         return cnt;
-
 
         
     }
