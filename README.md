@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Matrix
 |  |
