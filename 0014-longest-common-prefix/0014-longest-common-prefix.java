@@ -8,9 +8,9 @@ class Solution {
 
         int idx=0;
 
-        for(int i=0;i<first.length();i++)
+        while(idx<first.length() && idx<last.length())
         {
-            if(first.charAt(i)==last.charAt(i))
+            if(first.charAt(idx)==last.charAt(idx))
             idx++;
 
             else 
