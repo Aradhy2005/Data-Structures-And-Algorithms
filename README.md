@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0823-binary-trees-with-factors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
