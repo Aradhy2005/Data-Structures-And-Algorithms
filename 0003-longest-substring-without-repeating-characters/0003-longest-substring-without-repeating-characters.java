@@ -8,12 +8,12 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
             HashSet<Character> st=new HashSet<>();
-            String res="";
+            StringBuilder res=new StringBuilder();
             for(int j=i;j<s.length();j++)
             {
                 if(!st.contains(s.charAt(j)))
                 {
-                    res+=s.charAt(j);
+                    res.append(s.charAt(j));
                     maxLen=Math.max(maxLen,res.length());
                     st.add(s.charAt(j));
 
