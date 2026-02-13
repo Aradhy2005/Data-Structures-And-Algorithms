@@ -4,8 +4,6 @@
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
 
-        int ans=-1;
-
         int left=1;
         int right=n;
 
@@ -16,7 +14,6 @@ public class Solution extends VersionControl {
 
             if(isBadVersion(mid))
             {
-                ans=mid;
                 right=mid-1;
             }
 
@@ -24,7 +21,7 @@ public class Solution extends VersionControl {
             left=mid+1;
         }
 
-        return ans;
+        return left;
         
     }
 }
