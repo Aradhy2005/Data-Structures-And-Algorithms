@@ -1,28 +1,35 @@
 class Solution {
     public int search(int[] nums, int target) {
 
-        int low=0;
-        int high=nums.length-1;
+        int left=0;
+        int right=nums.length-1;
 
-        while(low<=high)
+        while(left<=right)
         {
-            int mid= (low+high)/2;
+            int mid=left+(right-left)/2;
 
             if(nums[mid]==target)return mid;
 
-            if(nums[low]<=nums[mid])
+            if(nums[left]<=nums[mid])  //LEFT HALF SORTED
             {
-                if(nums[low]<=target && target<=nums[mid])high=mid-1;
-
-                else low=mid+1;
+                if(nums[left]<=target && target<nums[mid]) // Element in left
+                {
+                    right=mid-1;
+                }
+                else
+                left=mid+1;
             }
 
-            else {  // Right half is sorted
-    if (nums[mid] <= target && target <= nums[high])
-        low = mid + 1;   // search right
-    else
-        high = mid - 1;  // search left
-}
+            else //RIGHT HALF IS SORTED
+            {
+                if(nums[right]>=target && nums[mid]<target) //Element in right
+                {
+                    left=mid+1;
+                }
+
+                else
+                right=mid-1;
+            }
         }
 
         return -1;
