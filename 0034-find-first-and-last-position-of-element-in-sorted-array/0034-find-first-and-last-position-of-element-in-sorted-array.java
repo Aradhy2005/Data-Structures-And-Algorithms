@@ -2,10 +2,10 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
 
         return new int[]{firstOccur(nums,target),lastOccur(nums,target)};
-        
+  
     }
 
-    int firstOccur(int[]nums, int target)
+    int firstOccur(int[] nums,int target)
     {
         int left=0;
         int right=nums.length-1;
@@ -23,19 +23,18 @@ class Solution {
 
             else if(nums[mid]>target)right=mid-1;
 
-            else
-            left=mid+1;
+            else left=mid+1;
         }
 
         return ans;
     }
 
-    int lastOccur(int[]nums, int target)
+    int lastOccur(int[] nums,int target)
     {
-        int ans=-1;
-
         int left=0;
         int right=nums.length-1;
+
+        int ans=-1;
 
         while(left<=right)
         {
