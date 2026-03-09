@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
