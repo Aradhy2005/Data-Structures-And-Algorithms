@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0823-binary-trees-with-factors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -654,10 +657,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
 ## Graph Theory
 |  |
