@@ -1,24 +1,28 @@
 class Solution {
+
+    List<List<Integer>> ans=new ArrayList<>();
+
     public List<List<Integer>> subsets(int[] nums) {
 
+        List<Integer> temp=new ArrayList<>();
 
-        List<List<Integer>> res = new ArrayList<>();
+        solve(nums,0,temp);
 
-        generateSub(nums,0,new ArrayList<>(),res);
-
-        return res;
+        return ans;
         
     }
 
-    void generateSub(int[] nums,int i,List<Integer>Current,List<List<Integer>> res){
-        if(i==nums.length){
-            res.add(new ArrayList<>(Current));
+    public void solve(int[] nums,int i,List<Integer> temp)
+    {
+        if(i>=nums.length)
+        {
+            ans.add(new ArrayList<>(temp));
             return;
         }
-        Current.add(nums[i]);
-        generateSub(nums,i+1,Current,res);
 
-        Current.remove(Current.size()-1);
-        generateSub(nums,i+1,Current,res);
+        temp.add(nums[i]);
+        solve(nums,i+1,temp);
+        temp.remove(temp.size()-1);
+        solve(nums,i+1,temp);
     }
 }
