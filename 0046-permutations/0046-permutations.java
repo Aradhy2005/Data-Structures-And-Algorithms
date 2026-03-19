@@ -1,24 +1,26 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
 
-        List<List<Integer>> res = new ArrayList<>();
+        List<List<Integer>> ans=new ArrayList<>();
+        getParams(nums,0,ans);
 
-        getPermute(nums,0,res);
-
-        return res;
+        return ans;
         
     }
 
-    void getPermute(int[] nums,int idx, List<List<Integer>> res)
-    {
-        if(idx==nums.length){
+    void getParams(int[] nums, int idx, List<List<Integer>> ans) {
 
-            List<Integer> temp = new ArrayList<>();
-            for (int n : nums) temp.add(n);
-            res.add(new ArrayList<>(temp));
+        if(idx==nums.length) {
+
+            List<Integer> temp=new ArrayList<>();
+            for(int num:nums)temp.add(num);
+
+            ans.add(new ArrayList<>(temp));
             return;
 
         }
+        
+
 
         for(int i=idx;i<nums.length;i++)
         {
@@ -26,11 +28,12 @@ class Solution {
             nums[i]=nums[idx];
             nums[idx]=temp;
 
-            getPermute(nums,idx+1,res);
+            getParams(nums,idx+1,ans);
 
-            int temp1=nums[i];
+            temp=nums[i];
             nums[i]=nums[idx];
-            nums[idx]=temp1;
+            nums[idx]=temp;
         }
+
     }
 }
