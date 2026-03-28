@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3637-trionic-array-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3637-trionic-array-i) |
 ## Backtracking
 |  |
 | ------- |
