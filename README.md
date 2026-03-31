@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -707,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
