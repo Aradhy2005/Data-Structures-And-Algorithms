@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0965-unique-email-addresses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0965-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
+| [0994-rotting-oranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
+| [0994-rotting-oranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
