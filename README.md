@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1791-find-center-of-star-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
