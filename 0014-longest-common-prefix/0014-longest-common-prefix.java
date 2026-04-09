@@ -11,9 +11,11 @@ class Solution {
         while(idx<first.length() && idx<last.length())
         {
             if(first.charAt(idx)==last.charAt(idx))
-            idx++;
+            {
+                idx++;
+            }
 
-            else 
+            else
             break;
         }
 
