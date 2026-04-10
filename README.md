@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3637-trionic-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
