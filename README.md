@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1972-rotating-the-box) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
