@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2833-furthest-point-from-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3451-string-compression-iii) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2833-furthest-point-from-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
 | ------- |
