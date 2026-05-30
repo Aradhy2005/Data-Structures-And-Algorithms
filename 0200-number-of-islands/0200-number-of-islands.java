@@ -1,13 +1,14 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        int n=grid.length;
-        int m=grid[0].length;
+
+        int m=grid.length;
+        int n=grid[0].length;
 
         int cnt=0;
 
-        for(int i=0;i<n;i++)
+        for(int i=0;i<m;i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j=0;j<n;j++)
             {
                 if(grid[i][j]=='1')
                 {
@@ -18,15 +19,17 @@ class Solution {
         }
 
         return cnt;
+
+
+        
     }
 
-    public void dfs(int i,int j,char[][] grid)
+    void dfs(int i,int j,char[][]grid)
     {
-        int n=grid.length;
-        int m=grid[0].length;
+        int m=grid.length;
+        int n=grid[0].length;
 
-        if(i<0 ||j<0 ||i>=n ||j>=m ||grid[i][j]=='0')
-        return;
+        if(i>=m || j>=n || i<0 || j<0 ||grid[i][j]=='0')return;
 
         grid[i][j]='0';
 
