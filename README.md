@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2833-furthest-point-from-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
