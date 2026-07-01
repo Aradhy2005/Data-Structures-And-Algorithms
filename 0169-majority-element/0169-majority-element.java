@@ -1,11 +1,10 @@
 class Solution {
     public int majorityElement(int[] nums) {
 
-        int i=0;
-        int el=nums[0];
         int cnt=0;
+        int el=nums[0];
 
-        while(i<nums.length)
+        for(int i=0;i<nums.length;i++)
         {
             if(cnt==0)
             {
@@ -18,17 +17,10 @@ class Solution {
                 cnt++;
             }
 
-            else
-            {
-                cnt--;
-            }
-
-            i++;
+            else cnt--;
         }
 
-
         return el;
-
         
     }
 }
