@@ -3,17 +3,15 @@ class Solution {
 
         if(s.length()!=t.length())return false;
 
-        int[] freq=new int[26];
+        char[] array1=s.toCharArray();
+        char[] array2=t.toCharArray();
 
-        for(int i=0;i<s.length();i++)
-        {
-            freq[s.charAt(i)-'a']++;
-            freq[t.charAt(i)-'a']--;
-        }
+        Arrays.sort(array1);
+        Arrays.sort(array2);
 
-        for(int a:freq)
+        for(int i=0;i<array1.length;i++)
         {
-            if(a!=0)return false;
+            if(array1[i]!=array2[i])return false;
         }
 
         return true;
