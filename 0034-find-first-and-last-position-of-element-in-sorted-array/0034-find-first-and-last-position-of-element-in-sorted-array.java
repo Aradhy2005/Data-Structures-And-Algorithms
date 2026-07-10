@@ -2,10 +2,10 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
 
         return new int[]{firstOccur(nums,target),lastOccur(nums,target)};
-  
+        
     }
 
-    int firstOccur(int[] nums,int target)
+    public int firstOccur(int[] nums,int target)
     {
         int left=0;
         int right=nums.length-1;
@@ -15,8 +15,7 @@ class Solution {
         {
             int mid=left+(right-left)/2;
 
-            if(nums[mid]==target)
-            {
+            if(nums[mid]==target){
                 ans=mid;
                 right=mid-1;
             }
@@ -29,11 +28,10 @@ class Solution {
         return ans;
     }
 
-    int lastOccur(int[] nums,int target)
+    public int lastOccur(int[] nums,int target)
     {
         int left=0;
         int right=nums.length-1;
-
         int ans=-1;
 
         while(left<=right)
@@ -46,11 +44,9 @@ class Solution {
                 left=mid+1;
             }
 
-            else if(nums[mid]<target)
-            left=mid+1;
+            else if(nums[mid]<target)left=mid+1;
 
-            else
-            right=mid-1;
+            else right=mid-1;
         }
 
         return ans;
