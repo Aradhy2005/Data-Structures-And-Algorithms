@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
