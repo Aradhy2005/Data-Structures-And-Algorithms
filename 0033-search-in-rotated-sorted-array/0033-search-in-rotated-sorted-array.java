@@ -10,25 +10,24 @@ class Solution {
 
             if(nums[mid]==target)return mid;
 
-            if(nums[left]<=nums[mid])  //LEFT HALF SORTED
+            if(nums[left]<=nums[mid]) //left half sorted
             {
-                if(nums[left]<=target && target<nums[mid]) // Element in left
+                if(nums[left]<=target && nums[mid]>=target)//element in right
                 {
                     right=mid-1;
                 }
-                else
-                left=mid+1;
+
+                else left=mid+1;
             }
 
-            else //RIGHT HALF IS SORTED
+            else //Right half sorted
             {
-                if(nums[right]>=target && nums[mid]<target) //Element in right
+                if(nums[mid]<=target && nums[right]>=target)
                 {
                     left=mid+1;
                 }
 
-                else
-                right=mid-1;
+                else right=mid-1;
             }
         }
 
