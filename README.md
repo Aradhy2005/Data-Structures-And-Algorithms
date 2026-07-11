@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0823-binary-trees-with-factors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
