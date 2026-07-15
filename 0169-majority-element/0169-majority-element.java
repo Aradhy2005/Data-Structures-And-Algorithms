@@ -8,14 +8,11 @@ class Solution {
         {
             if(cnt==0)
             {
-                el=nums[i];
                 cnt=1;
+                el=nums[i];
             }
 
-            else if(el==nums[i])
-            {
-                cnt++;
-            }
+            else if(el==nums[i])cnt++;
 
             else cnt--;
         }
