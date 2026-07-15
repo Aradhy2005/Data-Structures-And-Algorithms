@@ -6,15 +6,14 @@ class Solution {
 
         int sumOdd=n*n;
         int sumEven=n*(n+1);
-        int GCD=1;
-
-        for(int i=1;i<sumOdd && i<sumEven;i++)
-        {
-            if(sumOdd%i==0 && sumEven%i==0)
-            GCD=i;
-        }
-
-        return GCD;
+        return gcd(sumOdd,sumEven);
         
+    }
+
+    public int gcd(int a,int b)
+    {
+        if(b==0)return a;
+
+        return gcd(b,a%b);
     }
 }
