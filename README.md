@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -660,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
