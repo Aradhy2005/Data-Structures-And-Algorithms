@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1518-water-bottles) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1972-rotating-the-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2089-maximum-matrix-sum) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
