@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0657-robot-return-to-origin) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
 | [0823-binary-trees-with-factors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
