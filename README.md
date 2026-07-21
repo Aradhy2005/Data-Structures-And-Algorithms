@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3451-string-compression-iii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
