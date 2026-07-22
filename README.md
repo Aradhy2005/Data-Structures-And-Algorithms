@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0733-flood-fill) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0622-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Interactive
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0622-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
