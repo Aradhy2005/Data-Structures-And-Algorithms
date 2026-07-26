@@ -19,22 +19,20 @@ class Solution {
 
     public int helper(List<Integer>temp)
     {
-        int[] dp = new int[temp.size()];;
-        dp[0]=temp.get(0);
-
+        int prev = temp.get(0);
+        int prev2 = 0;
 
         for(int i=1;i<temp.size();i++)
         {
-            int pick = temp.get(i);
+            int pick = temp.get(i)+prev2;
+            int notPick = prev;
 
-            if(i>1)
-            pick+=dp[i-2];;
+            int curr = Math.max(pick , notPick);
 
-            int nonPick = dp[i-1];
-
-            dp[i]=Math.max(pick,nonPick);
+            prev2=prev;
+            prev=curr;
         }
 
-        return dp[temp.size()-1];
+        return prev;
     }
 }
