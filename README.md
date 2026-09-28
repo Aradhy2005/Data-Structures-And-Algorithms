@@ -1,5 +1,173 @@
-# Data-Structures-And-Algorithms
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<div align="center">
+
+# JAVA DSA
+
+### Data Structures • Algorithms • LeetCode • Problem Solving
+
+<p>
+A continuously evolving collection of my Java solutions,
+problem-solving patterns, and DSA practice.
+</p>
+
+<p>
+  <a href="https://leetcode.com/u/aradhy2005/">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-DSA-2563EB?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+## 🧭 About This Repository
+
+This repository contains my **Java implementations of Data Structures &
+Algorithms problems**, primarily solved through LeetCode.
+
+It serves as both a **problem-solving archive** and a **revision resource**,
+with solutions organized around individual problems and broader algorithmic
+topics.
+
+> **The repository is continuously evolving as I solve, revisit, optimize,
+> and learn new problem-solving patterns.**
+
+---
+
+## 📊 Problem Solving
+
+<div align="center">
+
+| 🧩 Problems | 🏆 Contest Rating | ☕ Primary Language | 🎯 Platform |
+|:---:|:---:|:---:|:---:|
+| **500+*** | **1600+*** | **Java** | **LeetCode** |
+
+</div>
+
+<p align="center">
+<sub>
+*Current figures refer to my LeetCode profile and may differ from the
+number of solutions currently synchronized to this repository.
+</sub>
+</p>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/aradhy2005/">
+<img src="https://img.shields.io/badge/Explore_My_Current_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 Core Problem-Solving Patterns
+
+The goal isn't just to collect solutions — it's to recognize the
+**underlying pattern** that makes a problem easier to solve.
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🔀 Two Pointers
+
+Arrays & Strings
+
+</td>
+
+<td width="25%" align="center">
+
+### 🪟 Sliding Window
+
+Subarrays & Substrings
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔎 Binary Search
+
+Search Space Reduction
+
+</td>
+
+<td width="25%" align="center">
+
+### #️⃣ Hashing
+
+Fast Lookup & Frequency
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+
+### 🔁 Recursion
+
+Problem Decomposition
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌳 Trees
+
+Traversal & Structure
+
+</td>
+
+<td width="25%" align="center">
+
+### 🕸️ Graphs
+
+Traversal & Connectivity
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎒 Dynamic Programming
+
+Overlapping Subproblems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Topics Covered
+
+The repository spans a growing range of DSA concepts, including:
+
+```text
+Arrays
+Strings
+Hashing
+Two Pointers
+Sliding Window
+Prefix Sum
+Binary Search
+Sorting
+Recursion
+Backtracking
+Linked Lists
+Stacks
+Queues
+Trees
+Binary Search Trees
+Heaps
+Graphs
+Greedy
+Dynamic Programming
+Bit Manipulation
+Math
+```
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
