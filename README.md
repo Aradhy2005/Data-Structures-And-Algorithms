@@ -431,6 +431,7 @@ Math
 | [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -492,6 +493,7 @@ Math
 | [0078-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0401-binary-watch) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -507,6 +509,7 @@ Math
 | [0693-binary-number-with-alternating-bits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -523,6 +526,7 @@ Math
 | ------- |
 | [0204-count-primes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1291-sequential-digits) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
