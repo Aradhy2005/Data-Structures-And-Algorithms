@@ -15,10 +15,15 @@ class Solution {
 
         if(dp[target]!=null)return dp[target];
 
-        int take = solve(0, nums, target - nums[idx],dp);
-        int notTake = solve(idx + 1, nums, target,dp);
+        int result = 0;
 
-        return dp[target]=take + notTake;
+        for(int i=idx;i<nums.length;i++)
+        {
+            int take_i = solve(0,nums,target-nums[i],dp);
+            result+=take_i;
+        }
+
+        return dp[target]=result;
     }
 
 }
