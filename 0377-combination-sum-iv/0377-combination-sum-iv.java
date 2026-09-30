@@ -1,29 +1,20 @@
 class Solution {
     public int combinationSum4(int[] nums, int target) {
 
-        Integer[] dp = new Integer[target+1];
+        int[] dp = new int[target+1];
 
-        return solve(0, nums, target,dp);
+        dp[0]=1;
 
-    }
-
-    public int solve(int idx, int[] nums, int target,Integer[] dp) {
-        if (target == 0)
-            return 1;
-        if (idx >= nums.length || target<0)
-            return 0;
-
-        if(dp[target]!=null)return dp[target];
-
-        int result = 0;
-
-        for(int i=idx;i<nums.length;i++)
+        for(int sum=1;sum<=target;sum++)
         {
-            int take_i = solve(0,nums,target-nums[i],dp);
-            result+=take_i;
+            for(int num:nums)
+            {
+                if(sum-num>=0)
+                {
+                    dp[sum]+=dp[sum-num];
+                }
+            }
         }
-
-        return dp[target]=result;
+        return dp[target];
     }
-
 }
