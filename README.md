@@ -1030,6 +1030,7 @@ Math
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
