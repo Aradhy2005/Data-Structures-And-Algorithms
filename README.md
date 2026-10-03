@@ -235,6 +235,7 @@ Math
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -431,6 +432,7 @@ Math
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1200-minimum-absolute-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1219-path-with-maximum-gold) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
@@ -504,6 +506,7 @@ Math
 | [0216-combination-sum-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0401-binary-watch) |
 | [1219-path-with-maximum-gold](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1219-path-with-maximum-gold) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -519,6 +522,7 @@ Math
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -574,6 +578,7 @@ Math
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -720,6 +725,7 @@ Math
 | [0943-sum-of-subarray-minimums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1236-n-th-tribonacci-number) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -861,6 +867,7 @@ Math
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2833-furthest-point-from-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
@@ -1046,4 +1053,8 @@ Math
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2597-the-number-of-beautiful-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
