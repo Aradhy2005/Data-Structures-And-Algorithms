@@ -200,6 +200,7 @@ Math
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1972-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
@@ -981,6 +982,7 @@ Math
 | [0237-delete-node-in-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Interactive
 |  |
