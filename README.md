@@ -215,6 +215,7 @@ Math
 | [0020-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
@@ -685,6 +686,7 @@ Math
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
@@ -708,6 +710,7 @@ Math
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0055-jump-game) |
@@ -1047,6 +1050,7 @@ Math
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
