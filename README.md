@@ -980,6 +980,7 @@ Math
 | [0141-linked-list-cycle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
