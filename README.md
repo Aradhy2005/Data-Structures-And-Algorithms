@@ -291,6 +291,7 @@ Math
 | [0231-power-of-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
@@ -984,6 +985,7 @@ Math
 | [0206-reverse-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0382-linked-list-random-node) |
 | [0622-design-circular-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1071,4 +1073,12 @@ Math
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
