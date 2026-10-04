@@ -230,6 +230,7 @@ Math
 | [0402-remove-k-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0812-rotate-string) |
 | [0965-unique-email-addresses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0965-unique-email-addresses) |
@@ -263,6 +264,7 @@ Math
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -700,6 +702,7 @@ Math
 | [0402-remove-k-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0937-online-stock-span) |
@@ -728,6 +731,7 @@ Math
 | [0377-combination-sum-iv](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0823-binary-trees-with-factors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
@@ -1059,6 +1063,7 @@ Math
 | [0020-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
