@@ -226,6 +226,7 @@ Math
 | [0151-reverse-words-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
@@ -518,6 +519,7 @@ Math
 | [0090-subsets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0401-binary-watch) |
 | [1219-path-with-maximum-gold](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1219-path-with-maximum-gold) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -794,6 +796,7 @@ Math
 | [0112-path-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
