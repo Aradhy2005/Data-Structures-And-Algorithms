@@ -281,6 +281,7 @@ Math
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -355,6 +356,7 @@ Math
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Array
 |  |
 | ------- |
@@ -478,6 +480,7 @@ Math
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -641,6 +644,7 @@ Math
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
@@ -674,6 +678,7 @@ Math
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2597-the-number-of-beautiful-subsets) |
