@@ -283,6 +283,7 @@ Math
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
@@ -494,6 +495,7 @@ Math
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
@@ -550,6 +552,7 @@ Math
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3394-minimum-array-end) |
@@ -612,6 +615,7 @@ Math
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2615-sum-of-distances) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
