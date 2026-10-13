@@ -16,6 +16,9 @@ class Solution {
             return;
         }
 
+
+        if(curr+(s.length()-i)<=max_cnt)return;
+
         for(int j=i;j<s.length();j++)
         {
             String sub = s.substring(i,j+1);
