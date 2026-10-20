@@ -242,6 +242,7 @@ Math
 | [1021-remove-outermost-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
@@ -536,6 +537,7 @@ Math
 | [0216-combination-sum-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0401-binary-watch) |
+| [1079-letter-tile-possibilities](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1219-path-with-maximum-gold) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -613,6 +615,7 @@ Math
 | [0997-find-the-town-judge](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
+| [1079-letter-tile-possibilities](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1079-letter-tile-possibilities) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -931,6 +934,7 @@ Math
 | [0229-majority-element-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [1079-letter-tile-possibilities](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
