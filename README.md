@@ -337,6 +337,7 @@ Math
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -519,6 +520,7 @@ Math
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -578,6 +580,7 @@ Math
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -706,6 +709,7 @@ Math
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
