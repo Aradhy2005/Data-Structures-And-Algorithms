@@ -265,6 +265,7 @@ Math
 | [3451-string-compression-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3451-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
