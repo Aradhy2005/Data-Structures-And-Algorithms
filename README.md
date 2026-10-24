@@ -256,6 +256,7 @@ Math
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2409-count-days-spent-together](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2580-circular-sentence) |
@@ -325,6 +326,7 @@ Math
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
+| [2409-count-days-spent-together](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
