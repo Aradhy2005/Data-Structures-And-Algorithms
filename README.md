@@ -459,6 +459,7 @@ Math
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1200-minimum-absolute-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -843,6 +844,7 @@ Math
 | [0733-flood-fill](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -891,6 +893,7 @@ Math
 | [0547-number-of-provinces](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -915,6 +918,7 @@ Math
 | [0994-rotting-oranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1219-path-with-maximum-gold](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1130,6 +1134,7 @@ Math
 | ------- |
 | [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bracket Sequences
