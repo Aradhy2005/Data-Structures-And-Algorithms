@@ -521,6 +521,7 @@ Math
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -849,6 +850,7 @@ Math
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -898,6 +900,7 @@ Math
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -928,6 +931,7 @@ Math
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1137,6 +1141,7 @@ Math
 | [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
