@@ -274,6 +274,7 @@ Math
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -374,6 +375,7 @@ Math
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
 |  |
 | ------- |
@@ -1123,6 +1125,7 @@ Math
 | [0997-find-the-town-judge](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1197,4 +1200,8 @@ Math
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
