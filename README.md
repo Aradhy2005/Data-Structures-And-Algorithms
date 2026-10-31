@@ -1207,4 +1207,8 @@ Math
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
