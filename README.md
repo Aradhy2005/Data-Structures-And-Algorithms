@@ -1212,5 +1212,6 @@ Math
 | ------- |
 | [0175-combine-two-tables](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0177-nth-highest-salary) |
+| [0584-find-customer-referee](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
