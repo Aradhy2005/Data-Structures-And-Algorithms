@@ -241,6 +241,7 @@ Math
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0812-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
+| [0899-orderly-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0899-orderly-queue) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0965-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
@@ -321,6 +322,7 @@ Math
 | [0509-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0670-maximum-swap) |
+| [0899-orderly-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0899-orderly-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1236-n-th-tribonacci-number) |
@@ -718,6 +720,7 @@ Math
 | [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0823-binary-trees-with-factors](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0823-binary-trees-with-factors) |
+| [0899-orderly-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0899-orderly-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1200-minimum-absolute-difference) |
@@ -1217,4 +1220,8 @@ Math
 | [0584-find-customer-referee](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
