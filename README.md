@@ -262,6 +262,7 @@ Math
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2409-count-days-spent-together](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2409-count-days-spent-together) |
@@ -982,6 +983,7 @@ Math
 | [1079-letter-tile-possibilities](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2833-furthest-point-from-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
