@@ -236,6 +236,7 @@ Math
 | [0402-remove-k-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
