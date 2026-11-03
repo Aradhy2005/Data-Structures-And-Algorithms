@@ -353,6 +353,7 @@ Math
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -545,6 +546,7 @@ Math
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
