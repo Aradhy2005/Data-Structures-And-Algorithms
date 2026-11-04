@@ -244,6 +244,7 @@ Math
 | [0856-score-of-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0899-orderly-queue) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0965-unique-email-addresses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0965-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1044-find-common-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1044-find-common-characters) |
@@ -471,6 +472,7 @@ Math
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0965-unique-email-addresses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0965-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
@@ -1244,4 +1246,8 @@ Math
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0899-orderly-queue) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
