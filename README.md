@@ -385,6 +385,7 @@ Math
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1304-longest-happy-string) |
+| [1882-process-tasks-using-servers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -503,6 +504,7 @@ Math
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1882-process-tasks-using-servers) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1972-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
