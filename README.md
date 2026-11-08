@@ -487,6 +487,7 @@ Math
 | [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -892,6 +893,7 @@ Math
 | [0787-sliding-puzzle](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -942,6 +944,7 @@ Math
 | [0733-flood-fill](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -969,6 +972,7 @@ Math
 | [1219-path-with-maximum-gold](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1972-rotating-the-box](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1972-rotating-the-box) |
@@ -1001,6 +1005,7 @@ Math
 | [1079-letter-tile-possibilities](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1192,6 +1197,7 @@ Math
 | [0200-number-of-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
