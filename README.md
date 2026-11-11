@@ -305,6 +305,7 @@ Math
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Math
 |  |
 | ------- |
@@ -360,6 +361,7 @@ Math
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
