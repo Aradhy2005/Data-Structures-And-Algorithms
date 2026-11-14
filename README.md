@@ -548,6 +548,7 @@ Math
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1040,6 +1041,7 @@ Math
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [2615-sum-of-distances](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2615-sum-of-distances) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
@@ -1058,6 +1060,7 @@ Math
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2747-count-zero-request-servers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
