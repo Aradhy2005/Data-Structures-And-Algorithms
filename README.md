@@ -269,6 +269,7 @@ Math
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -789,6 +790,7 @@ Math
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-water-bottles](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2288-count-operations-to-obtain-zero) |
