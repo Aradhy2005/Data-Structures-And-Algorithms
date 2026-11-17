@@ -205,6 +205,7 @@ Math
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -276,6 +277,7 @@ Math
 | [2580-circular-sentence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2833-furthest-point-from-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2833-furthest-point-from-origin) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3451-string-compression-iii) |
@@ -865,6 +867,7 @@ Math
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3693-climbing-stairs-ii) |
