@@ -307,6 +307,7 @@ Math
 | [2089-maximum-matrix-sum](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2716-prime-subtraction-operation](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
@@ -543,6 +544,7 @@ Math
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2615-sum-of-distances](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2615-sum-of-distances) |
@@ -772,6 +774,7 @@ Math
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
