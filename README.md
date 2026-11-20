@@ -556,6 +556,7 @@ Math
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
@@ -781,6 +782,7 @@ Math
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -874,6 +876,7 @@ Math
 | [2597-the-number-of-beautiful-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3693-climbing-stairs-ii) |
