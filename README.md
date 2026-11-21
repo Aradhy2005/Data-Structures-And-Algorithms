@@ -283,6 +283,7 @@ Math
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3195-separate-black-and-white-balls) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3451-string-compression-iii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3451-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -559,6 +560,7 @@ Math
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -701,6 +703,7 @@ Math
 | [2747-count-zero-request-servers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -906,6 +909,7 @@ Math
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -979,6 +983,7 @@ Math
 | [1971-find-if-path-exists-in-graph](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
