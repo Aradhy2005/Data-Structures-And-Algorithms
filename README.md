@@ -194,6 +194,7 @@ Math
 | [0283-move-zeroes](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0443-string-compression) |
@@ -235,6 +236,7 @@ Math
 | [0242-valid-anagram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0402-remove-k-digits) |
