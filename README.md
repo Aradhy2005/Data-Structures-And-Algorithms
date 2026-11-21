@@ -225,6 +225,7 @@ Math
 | [0038-count-and-say](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
@@ -325,6 +326,7 @@ Math
 | [0048-rotate-image](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0168-excel-sheet-column-title) |
@@ -614,6 +616,7 @@ Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
@@ -796,6 +799,7 @@ Math
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
