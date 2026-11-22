@@ -275,6 +275,7 @@ Math
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aradhy2005/Data-Structures-And-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
